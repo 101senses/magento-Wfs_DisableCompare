@@ -1,0 +1,17 @@
+{
+    "name": "101senses/magento-wfs_disablecompare",
+    "license": "WFS-LICENSE-COMMUNITY",
+    "type": "magento-module",
+    "description": "Ported this handy module to be available with modman and composer",
+    "homepage": "http://webflakestudio.com",
+    "authors": [
+        {
+            "name": "Evaldas Taroza",
+            "email": "evaldas@101senses.ch"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
+

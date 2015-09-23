@@ -1,0 +1,5 @@
+app/code/community/Wfs/DisableCompare/etc/config.xml app/code/community/Wfs/DisableCompare/etc/config.xml
+app/code/community/Wfs/DisableCompare/Helper/Compare.php app/code/community/Wfs/DisableCompare/Helper/Compare.php
+app/code/community/Wfs/DisableCompare/Helper/Data.php app/code/community/Wfs/DisableCompare/Helper/Data.php
+app/design/frontend/base/default/layout/wfs/disablecompare.xml app/design/frontend/base/default/layout/wfs/disablecompare.xml
+app/etc/modules/Wfs_DisableCompare.xml app/etc/modules/Wfs_DisableCompare.xml
